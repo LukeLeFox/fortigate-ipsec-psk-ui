@@ -206,8 +206,8 @@ Raccomandazioni operative:
 Fortinet Community:
 
 Technical Tip: Use the FortiGate API to recover an IPsec pre-shared key in plain text format  
-[https://community.fortinet.com/t5/FortiGate/Technical-Tip-Use-the-FortiGate-API-to-recover-an-IPsec-pre/ta-p/331876](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Use-the-FortiGate-API-to-recover-an-IPsec-pre/ta-p/331876)
-
+[[https://community.fortinet.com/t5/FortiGate/Technical-Tip-Use-the-FortiGate-API-to-recover-an-IPsec-pre/ta-p/331876](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Use-the-FortiGate-API-to-recover-an-IPsec-pre/ta-p/331876)
+](https://community.fortinet.com/t5/FortiGate/Technical-Tip-Use-the-FortiGate-API-to-recover-an-IPsec-pre/ta-p/331876)
 
 ---
 
