@@ -96,7 +96,9 @@ L'applicazione fornisce le seguenti funzionalità:
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone
 cd fortigate-ipsec-psk-ui
 pip install -r requirements.txt
 python app.py
+
+http://127.0.0.1:5001
